@@ -1,1 +1,1 @@
-My repository file in git lab basics
+My repository folder in git basics lab
